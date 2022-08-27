@@ -9,4 +9,9 @@ Having recently started the full stack bootcamp with Black Codher, these are the
 - git commands and 
 - the purpose of source control. 
 
+## Tricky parts
+
+- Mainly when to use which git command,specifically
+- clone and pull and fork
+
 I've managed to follow the content so far and look forward to future challenges!

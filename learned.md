@@ -1,6 +1,6 @@
 #  What have I learned?
 
-Having recently started the full stack bootcamp with Black Codher, I have learnt about:
+Having recently started the full stack bootcamp with Black Codher, these are the things I've learnt about so far:
 
 - the software development life cycle, 
 - the different approaches to dealing with the software life cyle it, 
